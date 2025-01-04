@@ -1,0 +1,16 @@
+PODS:
+  - LintTest (0.1.0)
+
+DEPENDENCIES:
+  - LintTest (from `../`)
+
+EXTERNAL SOURCES:
+  LintTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LintTest: ff515033093810b104896c08d616e747f76ad91a
+
+PODFILE CHECKSUM: 93a01644382f9f3c9eebb4278b8635da83892d94
+
+COCOAPODS: 1.16.2

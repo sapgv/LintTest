@@ -1,0 +1,6 @@
+framework module LintTest {
+  umbrella header "LintTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

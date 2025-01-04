@@ -1,0 +1,22 @@
+{
+  "name": "LintTest",
+  "version": "0.1.0",
+  "summary": "A short description of LintTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sapgv/LintTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sapgv": "grisha.sapgv@mail.ru"
+  },
+  "source": {
+    "git": "https://github.com/sapgv/LintTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LintTest/Classes/**/*"
+}
